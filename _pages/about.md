@@ -1,23 +1,19 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Mayank</strong> Saxena
+description: Senior Undergraduate | Delhi Technological University
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  image: prof_pic_ny.jpg
+  address: #Mention address
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior year undergraduate in the Department of Applied Mathematics at [Delhi Technological University](http://dtu.ac.in/). My research interests lie in Machine Learning, Network Analysis and Data Mining.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In the summers of 2017, I was selected for the [Robotics Institute Summers Scholars Program](http://riss.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and worked under the mentorship of [Dr. Jack Mostow](http://www.cs.cmu.edu/~mostow/). I have also conducted collaborative research with [Dr. Sameep Mehta](http://researcher.watson.ibm.com/researcher/view.php?person=in-sameepmehta) at [IBM IRL](http://www.research.ibm.com/labs/india/), New Delhi.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides my academic engagements - I enjoy using technology to solve daily life problems, playing football and supporting Chelsea Football Club.
